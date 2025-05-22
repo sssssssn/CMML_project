@@ -1,19 +1,9 @@
 # panc8_scina Project Documentation
 
 ## Project Structure
-.
-├── docs
-│   └── readme.md
-├── input
-│   └── panc8_scina.h5ad
-├── models
-├── notebooks
-│   └── panc8_scina.ipynb
-├── output
-│   ├── output_modified_h5ad
-│   └── output_report
-└── scripts
-    └── download_model.sh
+
+<img width="219" alt="image" src="https://github.com/user-attachments/assets/a9f418ad-9bf5-4780-bd29-b70d4fe40884" />
+
 
 
 ## Project Directory Explanation
