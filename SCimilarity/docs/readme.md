@@ -1,8 +1,8 @@
-# panc8_scina Project Documentation
+# SCimilarity Project Documentation
 
 ## Project Structure
 
-<img width="219" alt="image" src="https://github.com/user-attachments/assets/a9f418ad-9bf5-4780-bd29-b70d4fe40884" />
+
 
 
 
