@@ -8,6 +8,7 @@ All the code utilized by the CMML mini-project can be found here. Usage method o
 
 
 
+<img width="323" alt="截屏2025-05-23 21 00 13" src="https://github.com/user-attachments/assets/420f0491-ac8a-4646-92cf-9862214fddb2" />
 
 
 
